@@ -23,7 +23,7 @@ createColor(6);
 		otherButton[i].style.display="none";
 		 NoOfButton=3;
 		 createColor(3);
-		 console.log(rightColor);
+
 	});
 	easyButton[1].addEventListener("click",function(){
 		addtext.textContent="";
@@ -35,7 +35,7 @@ createColor(6);
 		otherButton[i].style.display="block";
 		NoOfButton=6;
 		createColor(6);
-		console.log(rightColor);
+	
 		
 	});
 
@@ -94,7 +94,7 @@ var select=Math.floor((Math.random() * NoButton));
 		}
 
 	}
-	console.log(select);
+
 }
 
 
