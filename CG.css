@@ -1,0 +1,30 @@
+body{
+	background:#2F4F4F;
+}
+#PlayAgain{
+	cursor:pointer;
+}
+
+.addText{
+	color:black;
+}
+.NAV{
+	background: white;
+}
+.navBUTTON{
+	cursor:pointer;
+}
+.head{	
+	text-align:center;
+	background: #008B8B;
+}
+.btn{
+	width:100%;
+	height:10rem;
+	border-radius: 1rem;
+	background: white;
+}
+
+.change{
+	background: #008B8B;
+}
