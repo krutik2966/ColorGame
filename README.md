@@ -1,3 +1,3 @@
 # ColorGame
-This ia a basic RGB color game.
+This is a basic RGB color game.
 
